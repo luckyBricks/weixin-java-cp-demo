@@ -23,7 +23,7 @@ import java.util.Map;
  * @description：推送消息到企业自有应用
  * @modified By：
  */
-
+//http://localhost:8080/wx/cp/push/sendContent?user=bricks&content=%E8%BF%99%E6%98%AF%E4%B8%80%E6%9D%A1%E5%B8%A6%E6%9C%89%3Ca%20href=%22www.baidu.com%22%3E%E9%93%BE%E6%8E%A5%E5%86%85%E5%AE%B9%3C/a%3E%E7%9A%84%E6%A0%87%E7%AD%BE&index=0
 @RestController
 @RequestMapping("/wx/cp/push")
 public class WxPushMessageController {
