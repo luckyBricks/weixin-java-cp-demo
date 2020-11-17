@@ -16,6 +16,7 @@ public class TextBuilder extends AbstractBuilder {
     WxCpXmlOutTextMessage m = WxCpXmlOutMessage.TEXT().content(content)
         .fromUser(wxMessage.getToUserName()).toUser(wxMessage.getFromUserName())
         .build();
+    System.out.println(wxMessage.getToUserName() +""+ wxMessage.getFromUserName());
     return m;
   }
 
