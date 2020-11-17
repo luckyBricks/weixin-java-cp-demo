@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.github.binarywang.demo.wx.cp.config.WxCpProperties",
+      "name": "wechat.cp",
+      "type": "com.github.binarywang.demo.wx.cp.config.WxCpProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.github.binarywang.demo.wx.cp.config.WxCpProperties",
+      "name": "wechat.cp.app-configs",
+      "type": "java.util.List<com.github.binarywang.demo.wx.cp.config.WxCpProperties.AppConfig>"
+    },
+    {
+      "sourceType": "com.github.binarywang.demo.wx.cp.config.WxCpProperties",
+      "name": "wechat.cp.corp-id",
+      "description": "设置企业微信的corpId",
+      "type": "java.lang.String"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31afb9b6-8f0b-4cea-8f59-55b6f27dbed9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/binarywang/demo/wx/cp/config/TableauConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/binarywang/demo/wx/cp/controller/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/binarywang/demo/wx/cp/mapper/WxTableauMappingMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/binarywang/demo/wx/cp/model/WxTableauMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/binarywang/demo/wx/cp/utils/RedirectEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-generator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/sqlMap/WxTableauMappingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetAutoEntityAndDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/binarywang/demo/wx/cp/controller/WxOauth2Redirect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/binarywang/demo/wx/cp/controller/WxOauth2Redirect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kNeJuyriShxq0grEjkHyiYGelJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.WxCpDemoApplication">
+    <configuration name="GetAutoEntityAndDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetAutoEntityAndDao" />
+      <module name="weixin-java-cp-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedirectEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.binarywang.demo.wx.cp.utils.RedirectEncoder" />
+      <module name="weixin-java-cp-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.binarywang.demo.wx.cp.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WxCpDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="weixin-java-cp-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.binarywang.demo.wx.cp.WxCpDemoApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RedirectEncoder" />
+      <item itemvalue="Spring Boot.WxCpDemoApplication" />
+      <item itemvalue="Application.GetAutoEntityAndDao" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetAutoEntityAndDao" />
+        <item itemvalue="Application.RedirectEncoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31afb9b6-8f0b-4cea-8f59-55b6f27dbed9" name="Default Changelist" comment="" />
+      <created>1605545408475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605545408475</updated>
+      <workItem from="1605545409555" duration="1899000" />
+      <workItem from="1605615389015" duration="3573000" />
+      <workItem from="1605624577770" duration="5951000" />
+    </task>
+    <task id="LOCAL-00001" summary="新增推送消息Controller">
+      <created>1605547023613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605547023613</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加测试链接">
+      <created>1605547102163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605547102163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="新增推送消息Controller" />
+    <MESSAGE value="添加测试链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加测试链接" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="902" y="362" key="#Inspections" timestamp="1605545442717">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="902" y="362" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1605545442717" />
+    <state x="730" y="346" width="1133" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605627916659">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="730" y="346" width="1133" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605627916659" />
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1605628417031">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605628417031" />
+    <state x="797" y="192" key="CommitChangelistDialog2" timestamp="1605547101839">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="797" y="192" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605547101839" />
+    <state width="2507" height="407" key="GridCell.Tab.0.bottom" timestamp="1605630517902">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="407" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605630517902" />
+    <state width="2507" height="407" key="GridCell.Tab.0.center" timestamp="1605630517902">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="407" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605630517902" />
+    <state width="2507" height="407" key="GridCell.Tab.0.left" timestamp="1605630517902">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="407" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605630517902" />
+    <state width="2507" height="407" key="GridCell.Tab.0.right" timestamp="1605630517902">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="407" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605630517902" />
+    <state width="2507" height="407" key="GridCell.Tab.1.bottom" timestamp="1605630517902">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="407" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605630517902" />
+    <state width="2507" height="407" key="GridCell.Tab.1.center" timestamp="1605630517902">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="407" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605630517902" />
+    <state width="2507" height="407" key="GridCell.Tab.1.left" timestamp="1605630517902">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="407" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605630517902" />
+    <state width="2507" height="407" key="GridCell.Tab.1.right" timestamp="1605630517902">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="407" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605630517902" />
+    <state x="772" y="368" key="Vcs.Push.Dialog.v2" timestamp="1605547112744">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="772" y="368" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605547112744" />
+    <state x="1155" y="556" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1605624925699">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1155" y="556" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.2560.1400@0.0.2560.1400" timestamp="1605624925699" />
+    <state x="1024" y="488" width="512" height="432" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1605629545112">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1024" y="488" width="512" height="432" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605629545112" />
+    <state x="1111" y="417" width="697" height="822" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1605627852546">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1111" y="417" width="697" height="822" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605627852546" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
