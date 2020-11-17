@@ -28,7 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31afb9b6-8f0b-4cea-8f59-55b6f27dbed9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +139,7 @@
       <updated>1605545408475</updated>
       <workItem from="1605545409555" duration="1899000" />
       <workItem from="1605615389015" duration="3573000" />
-      <workItem from="1605624577770" duration="6037000" />
+      <workItem from="1605624577770" duration="6098000" />
     </task>
     <task id="LOCAL-00001" summary="新增推送消息Controller">
       <created>1605547023613</created>
